@@ -1,10 +1,10 @@
 {
-  "data_uid": "7a8c0449a7b1d540", 
-  "data_name": "octoml@venv", 
+  "data_uoa": "mlcommons@ck-venv",
+  "data_uid": "7242841b4ab75dbd",
+  "data_alias": "mlcommons@ck-venv",
+  "data_name": "mlcommons@ck-venv",
   "dict": {
-    "url": "https://github.com/octoml/venv", 
-    "shared": "git"
-  }, 
-  "data_alias": "octoml@venv", 
-  "data_uoa": "octoml@venv"
+    "shared": "git",
+    "url": "https://github.com/mlcommons/ck-venv"
+  }
 }

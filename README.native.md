@@ -68,7 +68,7 @@ ck install package --tags=compiler,python --env.ENABLE_OPTS=yes
 ```
 
 But note that it may take 1 hour to build this python version. 
-You can find all customization options in [the readme](https://github.com/octoml/venv/tree/main/package/python-from-src) 
+You can find all customization options in [the readme](https://github.com/mlcommons/ck-venv/tree/main/package/python-from-src) 
 of this CK package.
 
 You can also install python without shared libraries as follows:
