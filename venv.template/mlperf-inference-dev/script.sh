@@ -18,7 +18,7 @@ function ck_command {
 
 }
 
-ck_command "ck pull mlcommons@ck-mlops"
+ck_command "ck pull repo:mlcommons@ck-mlops"
 
 # Install packages to CK env entries
 ck_command "ck setup kernel --var.install_to_env=yes"

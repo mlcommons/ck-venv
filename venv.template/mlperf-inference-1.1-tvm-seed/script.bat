@@ -7,7 +7,7 @@ rem
 
 set cur_path=%~dp0
 
-call %cur_path%\common.bat ck pull mlcommons@ck-mlops --checkout=mlperf-1.1-seed
+call %cur_path%\common.bat ck pull repo:mlcommons@ck-mlops --checkout=mlperf-1.1-seed
 if %errorlevel% neq 0 (exit /b 1)
 
 rem Install packages to CK env entries
